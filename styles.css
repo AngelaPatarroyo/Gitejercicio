@@ -1,0 +1,7 @@
+.nav-pills .nav-link.active{
+    background-color: grey;
+}
+
+.nav-link, .nav-link:hover{
+    color: gray;
+}
